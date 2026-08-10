@@ -1,0 +1,73 @@
+name: Recommend a tool / 推荐工具
+description: Suggest a useful open-source creative AI project. / 推荐实用的开源创意 AI 项目。
+title: "[Tool] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Recommendations are reviewed for usefulness, documentation, ownership, maintenance, and licensing. Paid placement is not accepted.
+        推荐项目将按实用性、文档、所有权、维护状态和许可证进行审核。本项目不接受付费收录或排名。
+
+  - type: input
+    id: repository
+    attributes:
+      label: Public repository / 公开仓库
+      placeholder: https://github.com/owner/repository
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category / 分类
+      options:
+        - Image / 图像
+        - Video / 视频
+        - Audio / 音频
+        - 3D
+        - Design / 设计
+        - Prompt / 提示词
+        - Workflow / 工作流
+        - Other / 其他
+    validations:
+      required: true
+
+  - type: textarea
+    id: use_case
+    attributes:
+      label: What task does it solve? / 它解决什么任务？
+      description: Explain the concrete creative or production use case in your own words. / 请用自己的话说明它解决的具体创作或生产任务。
+    validations:
+      required: true
+
+  - type: input
+    id: documentation
+    attributes:
+      label: Documentation or demo / 文档或演示
+      placeholder: https://example.com/docs
+
+  - type: input
+    id: license
+    attributes:
+      label: License or usage terms / 许可证或使用条款
+      placeholder: "Example: Apache-2.0"
+    validations:
+      required: true
+
+  - type: textarea
+    id: experience
+    attributes:
+      label: First-hand notes / 实际使用说明
+      description: If you tried it, briefly describe what worked well and any limits. / 如果你使用过，请简述优点和限制。
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Submission checks / 提交确认
+      options:
+        - label: The repository is public and inspectable. / 仓库公开且可以检查。
+          required: true
+        - label: This is not a copied or minimally changed repository. / 这不是复制或仅做少量修改的仓库。
+          required: true
+        - label: I am not requesting paid placement or artificial ranking. / 我没有要求付费收录或人为提高排名。
+          required: true

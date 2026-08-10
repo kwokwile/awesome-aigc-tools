@@ -1,0 +1,57 @@
+name: Bug report / 问题反馈
+description: Report incorrect data, broken behavior, or accessibility problems. / 反馈数据错误、功能异常或无障碍问题。
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Awesome AIGC Tools. Please do not include passwords, tokens, or private data.
+        感谢帮助改进 Awesome AIGC Tools。请勿填写密码、令牌或其他隐私信息。
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Affected area / 问题范围
+      options:
+        - Tool data or links / 工具数据或链接
+        - Search or filters / 搜索或筛选
+        - Layout or mobile / 页面布局或移动端
+        - Accessibility / 无障碍体验
+        - Other / 其他
+    validations:
+      required: true
+
+  - type: input
+    id: page
+    attributes:
+      label: Page or tool / 页面或工具
+      description: Add the relevant page URL or tool name when possible. / 如有可能，请填写相关页面链接或工具名称。
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened? / 发生了什么？
+      description: Describe the incorrect result or behavior. / 请描述错误结果或异常行为。
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce / 复现步骤
+      description: List the shortest steps that consistently show the problem. / 请列出能够稳定复现问题的最短步骤。
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result / 预期结果
+    validations:
+      required: true
+
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and device / 浏览器与设备
+      placeholder: "Example: Chrome 140 on Windows 11"

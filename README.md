@@ -70,7 +70,9 @@ Open an issue or pull request. A recommended project should:
 - disclose its license or usage terms;
 - not be a copied repository submitted only to collect traffic.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the data format and review checklist.
+Use the issue forms to [report a problem](https://github.com/kwokwile/awesome-aigc-tools/issues/new?template=bug_report.yml) or [recommend a tool](https://github.com/kwokwile/awesome-aigc-tools/issues/new?template=tool_recommendation.yml).
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the data format and review checklist, and [ROADMAP.md](ROADMAP.md) for current maintenance priorities.
 
 ## Data and licenses / 数据与许可证
 
