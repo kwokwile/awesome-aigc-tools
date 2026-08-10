@@ -1,0 +1,495 @@
+[
+  {
+    "repo": "Comfy-Org/ComfyUI",
+    "category": "Image",
+    "stars": 125810,
+    "language": "Python",
+    "license": "GPL-3.0",
+    "updatedAt": "2026-08-10T06:09:58Z",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "homepage": "https://www.comfy.org/",
+    "descriptionZh": "节点式扩散模型工作流，适合搭建可复用、可精细控制的生图流水线。",
+    "descriptionEn": "A node-based diffusion workflow for reusable, deeply controllable image pipelines.",
+    "bestFor": [
+      "Node workflow",
+      "Local",
+      "Advanced"
+    ]
+  },
+  {
+    "repo": "AUTOMATIC1111/stable-diffusion-webui",
+    "category": "Image",
+    "stars": 164464,
+    "language": "Python",
+    "license": "AGPL-3.0",
+    "updatedAt": "2026-03-02T07:00:53Z",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "homepage": "",
+    "descriptionZh": "经典 Stable Diffusion 网页界面，扩展生态庞大，资料和教程丰富。",
+    "descriptionEn": "The classic Stable Diffusion web UI with a huge extension and tutorial ecosystem.",
+    "bestFor": [
+      "Extensions",
+      "Local",
+      "Community"
+    ]
+  },
+  {
+    "repo": "invoke-ai/InvokeAI",
+    "category": "Image",
+    "stars": 27799,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "updatedAt": "2026-08-09T18:28:32Z",
+    "url": "https://github.com/invoke-ai/InvokeAI",
+    "homepage": "https://invoke-ai.github.io/InvokeAI/",
+    "descriptionZh": "面向专业创作流程的生成引擎，兼顾画布、资产管理和工作流。",
+    "descriptionEn": "A professional creative engine combining canvas, asset management, and workflows.",
+    "bestFor": [
+      "Creative teams",
+      "Canvas",
+      "Production"
+    ]
+  },
+  {
+    "repo": "lllyasviel/Fooocus",
+    "category": "Image",
+    "stars": 52140,
+    "language": "Python",
+    "license": "GPL-3.0",
+    "updatedAt": "2025-12-01T19:17:07Z",
+    "url": "https://github.com/lllyasviel/Fooocus",
+    "homepage": "",
+    "descriptionZh": "强调少调参数、专注提示词的本地生图界面，新手上手速度快。",
+    "descriptionEn": "A low-configuration local image UI that keeps beginners focused on prompting.",
+    "bestFor": [
+      "Beginner",
+      "Prompt-first",
+      "Local"
+    ]
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "category": "Image",
+    "stars": 34275,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "updatedAt": "2026-08-10T07:02:25Z",
+    "url": "https://github.com/huggingface/diffusers",
+    "homepage": "https://huggingface.co/docs/diffusers",
+    "descriptionZh": "覆盖图像、视频与音频扩散模型的开发库，适合产品集成和实验。",
+    "descriptionEn": "A developer library for integrating and experimenting with image, video, and audio diffusion.",
+    "bestFor": [
+      "Developers",
+      "Models",
+      "Integration"
+    ]
+  },
+  {
+    "repo": "lllyasviel/ControlNet",
+    "category": "Image",
+    "stars": 34051,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "updatedAt": "2024-02-25T09:49:39Z",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "homepage": "",
+    "descriptionZh": "通过姿态、边缘和深度等条件控制扩散模型，是结构约束的基础项目。",
+    "descriptionEn": "Foundational spatial control for diffusion using pose, edges, depth, and more.",
+    "bestFor": [
+      "Pose",
+      "Structure",
+      "Research"
+    ]
+  },
+  {
+    "repo": "Wan-Video/Wan2.2",
+    "category": "Video",
+    "stars": 17041,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "updatedAt": "2026-03-17T10:48:41Z",
+    "url": "https://github.com/Wan-Video/Wan2.2",
+    "homepage": "https://wan.video",
+    "descriptionZh": "开源大规模视频生成模型，覆盖文生视频和图生视频任务。",
+    "descriptionEn": "An open large-scale video model for text-to-video and image-to-video creation.",
+    "bestFor": [
+      "Text to video",
+      "Image to video",
+      "Research"
+    ]
+  },
+  {
+    "repo": "Lightricks/LTX-Video",
+    "category": "Video",
+    "stars": 10827,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "updatedAt": "2026-01-05T22:37:07Z",
+    "url": "https://github.com/Lightricks/LTX-Video",
+    "homepage": "https://ltx.io/model",
+    "descriptionZh": "强调生成效率的视频模型，适合探索更快的本地视频工作流。",
+    "descriptionEn": "An efficiency-focused video model for faster local generation workflows.",
+    "bestFor": [
+      "Fast generation",
+      "Local",
+      "Video"
+    ]
+  },
+  {
+    "repo": "Tencent-Hunyuan/HunyuanVideo",
+    "category": "Video",
+    "stars": 12417,
+    "language": "Python",
+    "license": "Custom",
+    "updatedAt": "2026-06-29T09:33:50Z",
+    "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo",
+    "homepage": "https://aivideo.hunyuan.tencent.com",
+    "descriptionZh": "腾讯混元的视频生成框架，适合研究高质量长镜头与运动表现。",
+    "descriptionEn": "Tencent Hunyuan's framework for studying high-quality motion and longer shots.",
+    "bestFor": [
+      "Motion",
+      "Long shots",
+      "Research"
+    ]
+  },
+  {
+    "repo": "zai-org/CogVideo",
+    "category": "Video",
+    "stars": 12945,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "updatedAt": "2025-11-04T11:19:04Z",
+    "url": "https://github.com/zai-org/CogVideo",
+    "homepage": "",
+    "descriptionZh": "智谱开源的文生视频与图生视频模型系列，文档和推理示例完整。",
+    "descriptionEn": "Zhipu's text and image-to-video model family with practical inference examples.",
+    "bestFor": [
+      "Inference",
+      "Examples",
+      "Research"
+    ]
+  },
+  {
+    "repo": "hpcaitech/Open-Sora",
+    "category": "Video",
+    "stars": 29257,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "updatedAt": "2026-04-09T01:52:40Z",
+    "url": "https://github.com/hpcaitech/Open-Sora",
+    "homepage": "https://hpcaitech.github.io/Open-Sora/",
+    "descriptionZh": "面向高效视频生产的开放实现，适合学习训练和推理管线。",
+    "descriptionEn": "An open implementation for learning efficient video training and inference pipelines.",
+    "bestFor": [
+      "Training",
+      "Pipeline",
+      "Learning"
+    ]
+  },
+  {
+    "repo": "facebookresearch/audiocraft",
+    "category": "Audio",
+    "stars": 23550,
+    "language": "Jupyter Notebook",
+    "license": "MIT",
+    "updatedAt": "2026-03-03T21:50:32Z",
+    "url": "https://github.com/facebookresearch/audiocraft",
+    "homepage": "",
+    "descriptionZh": "Meta 的音频生成研究库，包含 MusicGen、AudioGen 和 EnCodec。",
+    "descriptionEn": "Meta's audio generation research library with MusicGen, AudioGen, and EnCodec.",
+    "bestFor": [
+      "Music",
+      "Sound",
+      "Research"
+    ]
+  },
+  {
+    "repo": "myshell-ai/OpenVoice",
+    "category": "Audio",
+    "stars": 37117,
+    "language": "Python",
+    "license": "MIT",
+    "updatedAt": "2025-04-19T16:00:00Z",
+    "url": "https://github.com/myshell-ai/OpenVoice",
+    "homepage": "https://research.myshell.ai/open-voice",
+    "descriptionZh": "支持音色克隆和风格控制的开放语音模型，适合多语言配音。",
+    "descriptionEn": "Open voice cloning with style control for multilingual dubbing workflows.",
+    "bestFor": [
+      "Voice clone",
+      "Dubbing",
+      "Multilingual"
+    ]
+  },
+  {
+    "repo": "fishaudio/fish-speech",
+    "category": "Audio",
+    "stars": 32120,
+    "language": "Python",
+    "license": "Custom",
+    "updatedAt": "2026-08-03T19:11:40Z",
+    "url": "https://github.com/fishaudio/fish-speech",
+    "homepage": "https://speech.fish.audio",
+    "descriptionZh": "高质量开源语音合成项目，适合自然对白和多语言声音生成。",
+    "descriptionEn": "High-quality open speech synthesis for natural dialogue and multilingual voices.",
+    "bestFor": [
+      "TTS",
+      "Dialogue",
+      "Multilingual"
+    ]
+  },
+  {
+    "repo": "suno-ai/bark",
+    "category": "Audio",
+    "stars": 39234,
+    "language": "Jupyter Notebook",
+    "license": "MIT",
+    "updatedAt": "2024-08-19T07:45:36Z",
+    "url": "https://github.com/suno-ai/bark",
+    "homepage": "",
+    "descriptionZh": "文本驱动的生成式音频模型，可生成语音、环境声和非语言声音。",
+    "descriptionEn": "Text-prompted audio generation for speech, ambience, and non-verbal sounds.",
+    "bestFor": [
+      "Speech",
+      "Effects",
+      "Experiment"
+    ]
+  },
+  {
+    "repo": "microsoft/TRELLIS",
+    "category": "3D",
+    "stars": 13412,
+    "language": "Python",
+    "license": "MIT",
+    "updatedAt": "2026-06-26T07:27:56Z",
+    "url": "https://github.com/microsoft/TRELLIS",
+    "homepage": "https://trellis3d.github.io",
+    "descriptionZh": "微软的结构化 3D 潜变量项目，可从图像或文本生成多种 3D 表示。",
+    "descriptionEn": "Microsoft's structured 3D latent project for versatile image and text-to-3D outputs.",
+    "bestFor": [
+      "Image to 3D",
+      "Assets",
+      "Research"
+    ]
+  },
+  {
+    "repo": "Tencent-Hunyuan/Hunyuan3D-2",
+    "category": "3D",
+    "stars": 14451,
+    "language": "Python",
+    "license": "Custom",
+    "updatedAt": "2025-10-28T09:58:12Z",
+    "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-2",
+    "homepage": "https://3d.hunyuan.tencent.com/",
+    "descriptionZh": "面向高分辨率 3D 资产生成的模型套件，包含形状与纹理流程。",
+    "descriptionEn": "A high-resolution 3D asset suite covering both shape and texture generation.",
+    "bestFor": [
+      "High-res",
+      "Texture",
+      "Assets"
+    ]
+  },
+  {
+    "repo": "Stability-AI/stable-fast-3d",
+    "category": "3D",
+    "stars": 1777,
+    "language": "Python",
+    "license": "Custom",
+    "updatedAt": "2025-01-22T14:55:42Z",
+    "url": "https://github.com/Stability-AI/stable-fast-3d",
+    "homepage": "https://stable-fast-3d.github.io",
+    "descriptionZh": "从单张图像快速重建带 UV 和材质的 3D 网格。",
+    "descriptionEn": "Fast single-image reconstruction of textured, UV-unwrapped 3D meshes.",
+    "bestFor": [
+      "Single image",
+      "Mesh",
+      "Fast"
+    ]
+  },
+  {
+    "repo": "threestudio-project/threestudio",
+    "category": "3D",
+    "stars": 7041,
+    "language": "Jupyter Notebook",
+    "license": "Apache-2.0",
+    "updatedAt": "2024-12-16T06:11:15Z",
+    "url": "https://github.com/threestudio-project/threestudio",
+    "homepage": "",
+    "descriptionZh": "统一多种文本生成 3D 方法的研究框架，便于复现与比较。",
+    "descriptionEn": "A unified research framework for reproducing and comparing text-to-3D methods.",
+    "bestFor": [
+      "Framework",
+      "Text to 3D",
+      "Research"
+    ]
+  },
+  {
+    "repo": "nexu-io/open-design",
+    "category": "Design",
+    "stars": 84795,
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "updatedAt": "2026-08-10T07:00:45Z",
+    "url": "https://github.com/nexu-io/open-design",
+    "homepage": "https://open-design.ai",
+    "descriptionZh": "本地优先的 AI 设计工作台，可让编码智能体输出网页、幻灯片、图像和视频。",
+    "descriptionEn": "A local-first AI design workspace for sites, slides, images, video, and real exports.",
+    "bestFor": [
+      "AI design",
+      "Local-first",
+      "Export"
+    ]
+  },
+  {
+    "repo": "excalidraw/excalidraw",
+    "category": "Design",
+    "stars": 129245,
+    "language": "TypeScript",
+    "license": "MIT",
+    "updatedAt": "2026-08-09T18:33:06Z",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "homepage": "https://excalidraw.com",
+    "descriptionZh": "手绘风格的开源白板，适合快速画流程、线框图和视觉说明。",
+    "descriptionEn": "An open hand-drawn whiteboard for quick flows, wireframes, and visual explanations.",
+    "bestFor": [
+      "Diagrams",
+      "Whiteboard",
+      "Collaboration"
+    ]
+  },
+  {
+    "repo": "penpot/penpot",
+    "category": "Design",
+    "stars": 58333,
+    "language": "Clojure",
+    "license": "MPL-2.0",
+    "updatedAt": "2026-08-10T05:55:10Z",
+    "url": "https://github.com/penpot/penpot",
+    "homepage": "https://penpot.app",
+    "descriptionZh": "面向产品团队的开源设计与原型平台，支持自托管和多人协作。",
+    "descriptionEn": "An open design and prototyping platform with self-hosting and team collaboration.",
+    "bestFor": [
+      "UI design",
+      "Prototype",
+      "Self-hosted"
+    ]
+  },
+  {
+    "repo": "tldraw/tldraw",
+    "category": "Design",
+    "stars": 49691,
+    "language": "TypeScript",
+    "license": "Custom",
+    "updatedAt": "2026-08-09T20:59:07Z",
+    "url": "https://github.com/tldraw/tldraw",
+    "homepage": "https://tldraw.dev",
+    "descriptionZh": "用于构建无限画布应用的 React SDK，也可直接用作在线协作白板。",
+    "descriptionEn": "A React SDK for infinite-canvas apps that also works as a collaborative whiteboard.",
+    "bestFor": [
+      "Infinite canvas",
+      "SDK",
+      "Collaboration"
+    ]
+  },
+  {
+    "repo": "f/prompts.chat",
+    "category": "Prompt",
+    "stars": 166941,
+    "language": "HTML",
+    "license": "Custom",
+    "updatedAt": "2026-08-10T03:37:55Z",
+    "url": "https://github.com/f/prompts.chat",
+    "homepage": "https://prompts.chat",
+    "descriptionZh": "社区驱动的提示词发现、收藏和自托管平台，适合快速寻找起点。",
+    "descriptionEn": "A community platform to discover, collect, and self-host prompts as starting points.",
+    "bestFor": [
+      "Prompt library",
+      "Community",
+      "Self-hosted"
+    ]
+  },
+  {
+    "repo": "dair-ai/Prompt-Engineering-Guide",
+    "category": "Prompt",
+    "stars": 77380,
+    "language": "MDX",
+    "license": "MIT",
+    "updatedAt": "2026-03-11T20:09:13Z",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "homepage": "https://www.promptingguide.ai/",
+    "descriptionZh": "系统整理提示工程、上下文工程、RAG 和智能体知识的开放指南。",
+    "descriptionEn": "An open guide to prompt engineering, context engineering, RAG, and agents.",
+    "bestFor": [
+      "Learning",
+      "Reference",
+      "Examples"
+    ]
+  },
+  {
+    "repo": "promptfoo/promptfoo",
+    "category": "Prompt",
+    "stars": 24094,
+    "language": "TypeScript",
+    "license": "MIT",
+    "updatedAt": "2026-08-09T21:11:49Z",
+    "url": "https://github.com/promptfoo/promptfoo",
+    "homepage": "https://promptfoo.dev",
+    "descriptionZh": "用测试集比较提示词、模型和智能体表现，并加入自动化评测。",
+    "descriptionEn": "Test and compare prompts, models, and agents with repeatable automated evals.",
+    "bestFor": [
+      "Evaluation",
+      "Compare",
+      "CI"
+    ]
+  },
+  {
+    "repo": "langgenius/dify",
+    "category": "Workflow",
+    "stars": 151917,
+    "language": "TypeScript",
+    "license": "Custom",
+    "updatedAt": "2026-08-10T07:06:00Z",
+    "url": "https://github.com/langgenius/dify",
+    "homepage": "https://dify.ai",
+    "descriptionZh": "用于构建智能体、RAG 与模型工作流的协作平台，支持云端和自托管。",
+    "descriptionEn": "A collaborative platform for agents, RAG, and model workflows in cloud or self-hosted setups.",
+    "bestFor": [
+      "Agent",
+      "RAG",
+      "Team"
+    ]
+  },
+  {
+    "repo": "FlowiseAI/Flowise",
+    "category": "Workflow",
+    "stars": 55287,
+    "language": "TypeScript",
+    "license": "Custom",
+    "updatedAt": "2026-08-07T05:55:02Z",
+    "url": "https://github.com/FlowiseAI/Flowise",
+    "homepage": "https://flowiseai.com",
+    "descriptionZh": "通过可视化节点搭建智能体和 LLM 流程，适合快速验证想法。",
+    "descriptionEn": "Build agents and LLM flows visually for fast prototyping and iteration.",
+    "bestFor": [
+      "Visual builder",
+      "Agent",
+      "Prototype"
+    ]
+  },
+  {
+    "repo": "langflow-ai/langflow",
+    "category": "Workflow",
+    "stars": 153004,
+    "language": "Python",
+    "license": "MIT",
+    "updatedAt": "2026-08-10T06:01:48Z",
+    "url": "https://github.com/langflow-ai/langflow",
+    "homepage": "http://www.langflow.org",
+    "descriptionZh": "拖拽式构建和部署 AI 智能体与工作流，组件生态丰富。",
+    "descriptionEn": "A drag-and-drop environment for building and deploying AI agents and workflows.",
+    "bestFor": [
+      "Drag and drop",
+      "Agent",
+      "Deploy"
+    ]
+  }
+]
