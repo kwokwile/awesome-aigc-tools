@@ -8,6 +8,10 @@
 ![Categories](https://img.shields.io/badge/categories-7-9c80ff?style=flat-square&labelColor=0a0b0d)
 ![License](https://img.shields.io/badge/index_license-MIT-f4f1e9?style=flat-square&labelColor=0a0b0d)
 
+## Live demo / 在线演示
+
+[Open Awesome AIGC Tools](https://awesome-aigc-tools.kwokwile.chatgpt.site)
+
 ## What this project solves / 它解决什么问题
 
 Creative AI projects are scattered across thousands of repositories. Star counts alone do not tell you which tool fits a real task. This index adds concise bilingual notes, task tags, category filters, language, and visible license metadata so creators can decide faster.
