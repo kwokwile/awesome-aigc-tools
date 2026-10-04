@@ -2,10 +2,10 @@
   {
     "repo": "Comfy-Org/ComfyUI",
     "category": "Image",
-    "stars": 135935,
+    "stars": 136043,
     "language": "Python",
     "license": "GPL-3.0",
-    "updatedAt": "2026-10-03T08:30:39Z",
+    "updatedAt": "2026-10-04T09:29:58Z",
     "url": "https://github.com/Comfy-Org/ComfyUI",
     "homepage": "https://www.comfy.org/",
     "descriptionZh": "节点式扩散模型工作流，适合搭建可复用、可精细控制的生图流水线。",
@@ -19,7 +19,7 @@
   {
     "repo": "AUTOMATIC1111/stable-diffusion-webui",
     "category": "Image",
-    "stars": 165183,
+    "stars": 165189,
     "language": "Python",
     "license": "AGPL-3.0",
     "updatedAt": "2026-03-02T07:00:53Z",
@@ -36,10 +36,10 @@
   {
     "repo": "invoke-ai/InvokeAI",
     "category": "Image",
-    "stars": 28335,
+    "stars": 28342,
     "language": "TypeScript",
     "license": "Apache-2.0",
-    "updatedAt": "2026-10-03T08:41:55Z",
+    "updatedAt": "2026-10-04T09:24:23Z",
     "url": "https://github.com/invoke-ai/InvokeAI",
     "homepage": "https://invoke-ai.github.io/InvokeAI/",
     "descriptionZh": "面向专业创作流程的生成引擎，兼顾画布、资产管理和工作流。",
@@ -53,7 +53,7 @@
   {
     "repo": "lllyasviel/Fooocus",
     "category": "Image",
-    "stars": 53269,
+    "stars": 53293,
     "language": "Python",
     "license": "GPL-3.0",
     "updatedAt": "2025-12-01T19:17:07Z",
@@ -70,7 +70,7 @@
   {
     "repo": "huggingface/diffusers",
     "category": "Image",
-    "stars": 34645,
+    "stars": 34648,
     "language": "Python",
     "license": "Apache-2.0",
     "updatedAt": "2026-10-02T23:59:24Z",
@@ -104,7 +104,7 @@
   {
     "repo": "Wan-Video/Wan2.2",
     "category": "Video",
-    "stars": 17703,
+    "stars": 17716,
     "language": "Python",
     "license": "Apache-2.0",
     "updatedAt": "2026-09-21T06:16:22Z",
@@ -121,7 +121,7 @@
   {
     "repo": "Lightricks/LTX-Video",
     "category": "Video",
-    "stars": 11008,
+    "stars": 11017,
     "language": "Python",
     "license": "Apache-2.0",
     "updatedAt": "2026-01-05T22:37:07Z",
@@ -138,7 +138,7 @@
   {
     "repo": "Tencent-Hunyuan/HunyuanVideo",
     "category": "Video",
-    "stars": 12582,
+    "stars": 12585,
     "language": "Python",
     "license": "Custom",
     "updatedAt": "2026-06-29T09:33:50Z",
@@ -155,7 +155,7 @@
   {
     "repo": "zai-org/CogVideo",
     "category": "Video",
-    "stars": 13052,
+    "stars": 13056,
     "language": "Python",
     "license": "Apache-2.0",
     "updatedAt": "2025-11-04T11:19:04Z",
@@ -172,7 +172,7 @@
   {
     "repo": "hpcaitech/Open-Sora",
     "category": "Video",
-    "stars": 29854,
+    "stars": 29851,
     "language": "Python",
     "license": "Apache-2.0",
     "updatedAt": "2026-04-09T01:52:40Z",
@@ -189,7 +189,7 @@
   {
     "repo": "facebookresearch/audiocraft",
     "category": "Audio",
-    "stars": 23656,
+    "stars": 23659,
     "language": "Jupyter Notebook",
     "license": "MIT",
     "updatedAt": "2026-03-03T21:50:32Z",
@@ -206,7 +206,7 @@
   {
     "repo": "myshell-ai/OpenVoice",
     "category": "Audio",
-    "stars": 37751,
+    "stars": 37761,
     "language": "Python",
     "license": "MIT",
     "updatedAt": "2025-04-19T16:00:00Z",
@@ -223,7 +223,7 @@
   {
     "repo": "fishaudio/fish-speech",
     "category": "Audio",
-    "stars": 32925,
+    "stars": 32936,
     "language": "Python",
     "license": "Custom",
     "updatedAt": "2026-09-16T17:33:47Z",
@@ -240,7 +240,7 @@
   {
     "repo": "suno-ai/bark",
     "category": "Audio",
-    "stars": 39273,
+    "stars": 39269,
     "language": "Jupyter Notebook",
     "license": "MIT",
     "updatedAt": "2024-08-19T07:45:36Z",
@@ -257,7 +257,7 @@
   {
     "repo": "microsoft/TRELLIS",
     "category": "3D",
-    "stars": 13754,
+    "stars": 13756,
     "language": "Python",
     "license": "MIT",
     "updatedAt": "2026-06-26T07:27:56Z",
@@ -274,7 +274,7 @@
   {
     "repo": "Tencent-Hunyuan/Hunyuan3D-2",
     "category": "3D",
-    "stars": 15014,
+    "stars": 15015,
     "language": "Python",
     "license": "Custom",
     "updatedAt": "2025-10-28T09:58:12Z",
@@ -291,7 +291,7 @@
   {
     "repo": "Stability-AI/stable-fast-3d",
     "category": "3D",
-    "stars": 1837,
+    "stars": 1838,
     "language": "Python",
     "license": "Custom",
     "updatedAt": "2025-01-22T14:55:42Z",
@@ -325,10 +325,10 @@
   {
     "repo": "nexu-io/open-design",
     "category": "Design",
-    "stars": 99235,
+    "stars": 99356,
     "language": "TypeScript",
     "license": "Apache-2.0",
-    "updatedAt": "2026-10-03T01:26:22Z",
+    "updatedAt": "2026-10-04T02:08:04Z",
     "url": "https://github.com/nexu-io/open-design",
     "homepage": "https://open-design.ai",
     "descriptionZh": "本地优先的 AI 设计工作台，可让编码智能体输出网页、幻灯片、图像和视频。",
@@ -342,7 +342,7 @@
   {
     "repo": "excalidraw/excalidraw",
     "category": "Design",
-    "stars": 133422,
+    "stars": 133475,
     "language": "TypeScript",
     "license": "MIT",
     "updatedAt": "2026-10-01T15:08:43Z",
@@ -359,10 +359,10 @@
   {
     "repo": "penpot/penpot",
     "category": "Design",
-    "stars": 60632,
+    "stars": 60677,
     "language": "Clojure",
     "license": "MPL-2.0",
-    "updatedAt": "2026-10-02T22:09:38Z",
+    "updatedAt": "2026-10-03T23:00:12Z",
     "url": "https://github.com/penpot/penpot",
     "homepage": "https://penpot.app",
     "descriptionZh": "面向产品团队的开源设计与原型平台，支持自托管和多人协作。",
@@ -376,7 +376,7 @@
   {
     "repo": "tldraw/tldraw",
     "category": "Design",
-    "stars": 50719,
+    "stars": 50735,
     "language": "TypeScript",
     "license": "Custom",
     "updatedAt": "2026-10-03T07:03:31Z",
@@ -393,7 +393,7 @@
   {
     "repo": "f/prompts.chat",
     "category": "Prompt",
-    "stars": 171893,
+    "stars": 171982,
     "language": "HTML",
     "license": "Custom",
     "updatedAt": "2026-10-03T08:12:28Z",
@@ -410,7 +410,7 @@
   {
     "repo": "dair-ai/Prompt-Engineering-Guide",
     "category": "Prompt",
-    "stars": 78798,
+    "stars": 78815,
     "language": "MDX",
     "license": "MIT",
     "updatedAt": "2026-03-11T20:09:13Z",
@@ -427,10 +427,10 @@
   {
     "repo": "promptfoo/promptfoo",
     "category": "Prompt",
-    "stars": 25663,
+    "stars": 25692,
     "language": "TypeScript",
     "license": "MIT",
-    "updatedAt": "2026-10-03T02:47:54Z",
+    "updatedAt": "2026-10-04T09:36:35Z",
     "url": "https://github.com/promptfoo/promptfoo",
     "homepage": "https://promptfoo.dev",
     "descriptionZh": "用测试集比较提示词、模型和智能体表现，并加入自动化评测。",
@@ -444,10 +444,10 @@
   {
     "repo": "langgenius/dify",
     "category": "Workflow",
-    "stars": 157750,
+    "stars": 157805,
     "language": "TypeScript",
     "license": "Custom",
-    "updatedAt": "2026-10-03T07:04:06Z",
+    "updatedAt": "2026-10-03T15:55:10Z",
     "url": "https://github.com/langgenius/dify",
     "homepage": "https://dify.ai",
     "descriptionZh": "用于构建智能体、RAG 与模型工作流的协作平台，支持云端和自托管。",
@@ -461,7 +461,7 @@
   {
     "repo": "FlowiseAI/Flowise",
     "category": "Workflow",
-    "stars": 55485,
+    "stars": 55487,
     "language": "TypeScript",
     "license": "Custom",
     "updatedAt": "2026-08-13T12:38:19Z",
@@ -478,10 +478,10 @@
   {
     "repo": "langflow-ai/langflow",
     "category": "Workflow",
-    "stars": 155471,
+    "stars": 155495,
     "language": "Python",
     "license": "MIT",
-    "updatedAt": "2026-10-03T03:36:36Z",
+    "updatedAt": "2026-10-04T08:06:46Z",
     "url": "https://github.com/langflow-ai/langflow",
     "homepage": "http://www.langflow.org",
     "descriptionZh": "拖拽式构建和部署 AI 智能体与工作流，组件生态丰富。",
