@@ -1,5 +1,6 @@
 # Awesome AIGC Tools
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 > A bilingual, searchable radar for useful open-source creative AI tools.
 >
 > 面向创作者的双语开源 AIGC 工具雷达：按任务查找，直接访问原仓库，不看营销排名。
